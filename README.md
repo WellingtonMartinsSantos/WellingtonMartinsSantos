@@ -1,7 +1,7 @@
 ### 👋🏿 Hi, I’m Wellington Martins 👨🏾‍💻🚀
 
 ![Data scientist](https://user-images.githubusercontent.com/68854093/113780351-7811df80-9705-11eb-92cc-f723fb3a17d5.gif)
-![LogoGit.mp4](https://github.com/WellingtonMartinsSantos/WellingtonMartinsSantos/blob/2396cab2631245ee42bbebb5a43896783707f836/LogoGit.mp4)
+![LogoGit](https://github.com/WellingtonMartinsSantos/WellingtonMartinsSantos/blob/2396cab2631245ee42bbebb5a43896783707f836/LogoGit.mp4)
 ## Who am I?
 - ✍🏿 Data Scientist 🥰.
 - 📚 Researcher.

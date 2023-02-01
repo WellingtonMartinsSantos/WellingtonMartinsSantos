@@ -1,6 +1,6 @@
 ### 👋🏿 Hi, I’m Wellington Martins 👨🏾‍💻🚀
 
-![Data scientist](https://user-images.githubusercontent.com/68854093/113780351-7811df80-9705-11eb-92cc-f723fb3a17d5.gif)
+![Data scientist](https://www.canva.com/design/DAFZW8EQMCc/view)
 
 ## Who am I?
 - ✍🏿 Data Scientist 🥰.

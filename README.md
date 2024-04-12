@@ -5,10 +5,12 @@
 ## Who am I?
 - ✍🏿 Data Scientist 🥰.
 - 📚 Researcher.
+- 🔍 MBA in Data Science and Analytics.
 - 👨🏽‍🎓 Bachelor of Chemical Engineering - UFSCar.
 
 ## Skills 💻
 - 🐍 Python.
+- 💾 SQL.
 - 🧮 Power BI.
 - 🔮 Machine Learning.
 - 📊 Data Visualization.

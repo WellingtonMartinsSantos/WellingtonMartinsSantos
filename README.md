@@ -5,7 +5,7 @@
 ## Who am I?
 - ✍🏿 Data Scientist 🥰.
 - 📚 Researcher.
-- 🔍 MBA in Data Science and Analytics.
+- 🔍 MBA in Data Science and Analytics - USP.
 - 👨🏽‍🎓 Bachelor of Chemical Engineering - UFSCar.
 
 ## Skills 💻
